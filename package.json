@@ -1,0 +1,14 @@
+{
+  "name": "Placeholder name, change this!",
+  "version": "0.0.1",
+  "description": "Placeholder description: change this!",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "Place author name here!",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
